@@ -1,3 +1,5 @@
+The project is ready to go. Just run the ipython notebook file:consumer_complaints.ipynb for normal mode
+
 # Analyze Consumer Complaint Data
 
 ## Description
@@ -80,3 +82,11 @@ In addition to the requirements from **Hard Mode**:
 
 The [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/) is
 pretty great! Thanks for making your data public.
+
+
+
+
+
+
+
+The project is ready to go. Just run the ipython notebook file:Consumer_Complaints.ipynb for normal mode
