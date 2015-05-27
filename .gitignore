@@ -65,4 +65,8 @@ target/
 # Temporary data
 .ipynb_checkpoints/
 
+.direnv
+.envrc
 Consumer_Complaints.csv
+.json
+.csv
