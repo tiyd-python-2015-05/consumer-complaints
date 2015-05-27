@@ -66,3 +66,11 @@ target/
 .ipynb_checkpoints/
 
 Consumer_Complaints.csv
+.direnv/	
+.envrc
+.DS_Store
+.gitignore
+2010_zip_pop.csv
+Consumer_Complaints.csv
+us_pop_state.csv
+.direnv/
