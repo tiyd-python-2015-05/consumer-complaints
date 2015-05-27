@@ -66,3 +66,6 @@ target/
 .ipynb_checkpoints/
 
 Consumer_Complaints.csv
+.envrc
+.direnv/
+.gitignore
