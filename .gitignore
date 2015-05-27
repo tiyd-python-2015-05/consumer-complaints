@@ -68,3 +68,5 @@ target/
 .direnv
 .envrc
 Consumer_Complaints.csv
+.json
+.csv
