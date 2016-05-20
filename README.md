@@ -1,5 +1,4 @@
 The project is ready to go. Just run the ipython notebook file:consumer_complaints.ipynb for normal mode
-Couldn't quite figure out the means, but, I got the weekdays, I think
 
 # Analyze Consumer Complaint Data
 
